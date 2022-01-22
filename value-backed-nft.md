@@ -4,11 +4,11 @@ description: Aka. Synthetic NFT
 
 # Value-backed NFT 💰
 
-![Ang Pow, the first value-backed NFT mimics the value of $1, $10, $100](<.gitbook/assets/red-01 (3).jpg>)
+![The value-backed NFT represents a specific value of USD similar to banknotes](<.gitbook/assets/ang-pow-preview (1).png>)
 
-Much of NFT pricing is based on speculation without competent evidence or any foundation, the value-backed NFT is a decentralized, non-custodial, algorithmic non-fungible token backed by the collateral asset and each presents the specific amount of currencies, commodities and digital assets aim to solve the illiquid problem of traditional NFT as well as reduce risks open door of opportunity.
+The value-backed NFT is an algorithmic NFT that has a value attached to it and can be minted to everyone by locking a certain amount of collateral tokens in a reserve pool and will be re-invested in other DeFi platform to earning yield or either stay idle, each represents the specific amount of currencies, commodities and digital assets aims to solve the illiquid problem of traditional NFT.
 
-The protocol combines 2 mature approaches from DeFi adopts into NFT which are synthetic asset issuance (Synthetix, UMA) and **** undercollatelization loan (Frax Finance) **** ensure stability and resilience are met for the needed of being financial assets and recognized by wider communities.
+The protocol combines two mature approaches from DeFi, the synthetic asset issuance (Synthetix, UMA) and **** non-liquidation loan (Frax Finance) into the NFT first methodology ensures stability and resilience are met for the needed of being financial assets and recognized by different communities within crypto space and beyond.
 
 ### Stability Mechanism
 
