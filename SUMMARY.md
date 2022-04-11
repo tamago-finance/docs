@@ -4,6 +4,7 @@
 * [Value-backed NFT 💰](value-backed-nft.md)
 * [NFT Luckbox 🎲](nft-luckbox.md)
 * [Community 💪🏻](community.md)
+* [🍳 Design Kit](design-kit.md)
 
 ## Legacy
 
