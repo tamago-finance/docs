@@ -10,17 +10,14 @@ At the same time, the NFT holders who contribute to the listing network have a c
 
 ### Background
 
-Current NFT raffle solutions are highly centralized, meaning to launch a giveaway campaign one has to contact a mediator which consumes time and energy. And after the campaign is over the process of choosing the winners is not at all transparent and can't be verified. Often times these mediators use outdated Web2 tech such as Google forms or gleam to collect addresses, which can be a hassle and inconvenient.
+Current NFT raffle solutions are highly centralized. In order to launch a giveaway campaign one must contact and coordinate with a mediator, consuming both valuable time and resources. Once the campaign has ended, the process of choosing the campaign winners is also untransparent and unverifiable. Oftentimes these mediators use outdated Web2 technology such as Google Forms or Gleam to collect addresses, which is both inconvenient and prone to error.
 
-Not to mention the possibility of scams in these giveaways which can shatter a brand image. WEB3 projects need smart WEB3 solutions which are decentralized, transparent, trustable, and verifiable.
+Not to mention the possibility of scams that can shatter a community’s brand image. Web3 projects demand Web3 solutions that are decentralized, transparent, trustable, and verifiable.
 
-\
-NFT Luckbox is a one-stop solution for all your raffle/giveaway needs. The smart contract itself is decentralized and transparent meaning the raffles can be verified on the blockchain. We provide projects with smart on-chain giveaway solutions which make the process hassle-free and ready to launch in days as compared to centralized protocols which can take weeks to even months.
+NFT Luckbox is a one-stop solution for all your raffle/giveaway needs. The smart contract itself is decentralized and transparent, meaning the raffles can be verified on the blockchain. We provide projects with smart on-chain raffle/giveaway solutions which streamline the giveaway process, reducing execution time to a matter of days compared to centralized protocols which can take anywhere from weeks to months.
 
-\
-Also, gone are the days when you had to collect user addresses on google forms or other software manually. We let projects choose the community they want to Airdrop to and gain traction from the users of that community. At the same time giving users exposure to new NFT projects. A win-win for everyone.
+Gone are the days where it is necessary to manually collect user addresses using Google Forms and/or other software. We let projects easily perform Airdrops to their chosen communities, gaining traction from the users of that community. At the same time, these users will also gain exposure to new NFT projects. A win-win for everyone.
 
-\
 We are trusted by various WEB3 projects including ApeX, Naga Dao, and Mao Dao among others.
 
 ### Architecture
@@ -34,20 +31,15 @@ We are trusted by various WEB3 projects including ApeX, Naga Dao, and Mao Dao am
 
 ### Chainlink VRF
 
-The Chainlink VRF is used to generate a random number for drawing the game without the risk of manipulation by the attacker, the system makes a request to VRF nodes to get the new number within 1-3 minutes intervals, the number will be persisted in the factory contract and can be accessed from the NFT LUCKBOX contract for further drawing according to the probability that has been set by the owner of the NFT LUCKBOX contract.
+The Chainlink VRF is used to generate a random number for drawing the game without the risk of manipulation by the attacker, the system makes requests to VRF nodes to get the new numbers in 1-3 minute intervals, the number will be persisted in the factory contract and can be accessed from the NFT LUCKBOX contract for further drawing according to the probability that has been set by the owner of the NFT LUCKBOX contract.
 
 ### Drawing Mechanism <a href="#b940" id="b940"></a>
 
-NFT LUCKBOX utilizes the Chainlink VRF algorithm to randomly pick a holder from the holder list. Essentially, the smart contract puts the holder list wallet addresses and the randomly generated (VRF) output through a mathematical operation in order to select the winner(s).
-
-The number of winners for each raffle campaign is set by the creators. For raffle campaigns with multiple winners, the random number will be hashed multiple times to pick the winners.
-
-This is the standard approach for selecting raffle campaign "winners" from the NFT Luckbox.
-
-
+NFT LUCKBOX utilizes the Chainlink VRF algorithm to randomly pick a holder from the holder list. Essentially, the smart contract puts the holder list wallet addresses and the randomly generated (VRF) output through a mathematical operation in order to select the winner(s). The number of winners for each raffle campaign is set by the creators. For raffle campaigns with multiple winners, the random number will be hashed multiple times to pick the winners. This is the standard approach for selecting raffle campaign "winners" from the NFT Luckbox.
 
 ### How to start a raffle?
 
-Campaign hosts should first select the community who they wish to distribute the prize to, before setting a launch date and prize details. As of writing, projects will need to manually submit their [application ](https://nftluckbox.xyz/raffles/create)to Luckbox admins to host their raffle campaigns. In future versions, campaign hosts will be able to list their campaigns themselves.
+Campaign hosts should first select the community who they wish to distribute the prize to, before setting a launch date and prize details. As of writing, projects will need to manually submit their[ application](https://nftluckbox.xyz/raffles/create).\
 
-\
+
+![](<.gitbook/assets/4 STEP.png>)
