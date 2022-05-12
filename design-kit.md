@@ -2,7 +2,7 @@
 description: Below you will find the main brand kit for TAMAGO Finance.
 ---
 
-# 🍳 Design Kit
+# DESIGN KIT
 
 ## Logo
 
