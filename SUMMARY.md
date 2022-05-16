@@ -1,10 +1,12 @@
 # Table of contents
 
-* [TAMAGO FINANCE 🥚](README.md)
-* [VALUE-BACKED NFT 💰](value-backed-nft.md)
-* [NFT LUCKBOX 🎲](nft-luckbox.md)
-* [COMMUNITY 💪🏻](community.md)
-* [DESIGN KIT 🎩](design-kit.md)
+* [Tamago Finance](README.md)
+* [Multi-chain Marketplace](multi-chain-marketplace.md)
+* [NFT Luckbox Project](nft-luckbox-project.md)
+* [Value-backed NFT](value-backed-nft.md)
+* [Security & Audits](security-and-audits.md)
+* [Community](community.md)
+* [Media Kit](media-kit.md)
 
 ## Legacy
 

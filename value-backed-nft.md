@@ -1,14 +1,14 @@
 ---
-description: Aka. Synthetic NFT
+description: Aka. Voucher NFT
 ---
 
-# Value-backed NFT 💰
+# Value-backed NFT
 
 ![The value-backed NFT represents a specific value of USD similar to banknotes](<.gitbook/assets/ang-pow-preview (1).png>)
 
-The value-backed NFT is an algorithmic NFT that has a value attached to it and can be minted to everyone by locking a certain amount of collateral tokens in a reserve pool and will be re-invested in other DeFi platform to earning yield or either stay idle, each represents the specific amount of currencies, commodities and digital assets aims to solve the illiquid problem of traditional NFT.
+The value-backed NFT is a financial voucher NFT backed by the value of multi-collateral assets, the NFT itself has a value attached and can be minted and redeemed by anyone, the minter must locking a certain amount of collateral tokens in a reserve pool, each NFT represents the specific amount of currencies, commodities and digital assets aims to solve the illiquid problem of traditional NFT.
 
-The protocol combines two mature approaches from DeFi, the synthetic asset issuance (Synthetix, UMA) and **** non-liquidation loan (Frax Finance) into the NFT first methodology ensures stability and resilience are met for the needed of being financial assets and recognized by different communities within crypto space and beyond.
+The protocol combines a number of mature approaches that proven from DeFi side and we eager to adopt into NFT market ensure stability and resilience are met.
 
 ### Stability Mechanism
 
