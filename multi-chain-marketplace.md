@@ -30,25 +30,19 @@ As of now the system is available on following networks:
 
 ## Mechanism
 
-The marketplace employs a combination of off-chain validators, relayers and on-chain smart contracts for settlement, verification and intra-chain swaps and support of batch trading saves time and effort by treating multiple orders as one single transaction.&#x20;
+The marketplace employs a combination of off-chain and on-chain to reduce the storage capacity needed for listing and verification enables batch trading of NFT assets saves time and effort by treating multiple orders as one single transaction.&#x20;
 
-By general, to sustain information sharing through a hybrid on-chain/off-chain architecture, the system utilizes the merkle tree as its core, it's essentially a fundamental component of major blockchains today that allows efficient and secure verification of the contents of large data structures. When the seller wants to sell their NFT, the order entry must be created and attached with the merkle tree object and its root hash that represents an array of individual assets accept in payment, a single leaf node of the merkle tree contains an EVM-based chain ID, contract address, token ID or amount (if it's ERC-20).
+By general, to sustain information sharing through a hybrid on-chain/off-chain architecture, the system utilizes the merkle tree as its core allows efficient and secure verification of the contents of large data structures. When the seller wants to sell their NFT, the order entry must be created and attached with the merkle tree object and its root that represents an array of individual assets accept in payment, a single leaf node of the merkle tree contains an EVM-based chain ID, contract address, token ID or amount (if it's ERC-20).
 
-![Each order contains a barter list, the plain list will be uploaded to IPFS for potential buyers to view and the hash will be attached to the smart contract ](<.gitbook/assets/Untitled Diagram.drawio (12) (1).png>)
+![Each entry contains a barter list, the plain list will be uploaded to IPFS for potential buyers to view and the hash will be attached to the smart contract ](<.gitbook/assets/Untitled Diagram.drawio (12) (1).png>)
 
-When the order entry is being created, the seller must define the type of the order that identified whether the NFT being listed can be sold only on the same chain or across different networks and each type the system will treat differently.
+Processing time will vary based on: intra-chain or cross-chain, networks and its traffic workload and the approximate times are as following:&#x20;
 
-
-
-
-
-
-
+| Process              | Intra-chain | Cross-chain (Non-ETH to Non-ETH) | Cross-chain (Non-ETH to ETH) |
+| -------------------- | ----------- | -------------------------------- | ---------------------------- |
+| Create/Cancel Orders | Instantly   | 2-3 mins..                       | 10+ mins.                    |
+| Swap Tokens          | Instantly   | 2-3 mins.                        | 10+ mins.                    |
 
 
 
-
-
-
-
-
+Transferring assets in and out of Ethereum mainnet usually facing some delays due to high gas prices and we must trade off between scalability and affordability.
