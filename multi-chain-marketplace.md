@@ -36,13 +36,10 @@ By general, to sustain information sharing through a hybrid on-chain/off-chain a
 
 ![Each entry contains a barter list, the plain list will be uploaded to IPFS for potential buyers to view and the hash will be attached to the smart contract ](<.gitbook/assets/Untitled Diagram.drawio (12) (1).png>)
 
-Processing time will vary based on: intra-chain or cross-chain, networks and its traffic workload and the approximate times are as following:&#x20;
+Transferring assets in and out of Ethereum mainnet usually facing long delays due to high gas prices that off-chain nodes can't afford frequent update the state root thus, processing time will vary depends on networks and the approximate times are as following:&#x20;
 
 | Process              | Intra-chain | Cross-chain (Non-ETH to Non-ETH) | Cross-chain (Non-ETH to ETH) |
 | -------------------- | ----------- | -------------------------------- | ---------------------------- |
-| Create/Cancel Orders | Instantly   | 2-3 mins..                       | 10+ mins.                    |
+| Create/Cancel Orders | Instantly   | 2-3 mins.                        | 10+ mins.                    |
 | Swap Tokens          | Instantly   | 2-3 mins.                        | 10+ mins.                    |
 
-
-
-Transferring assets in and out of Ethereum mainnet usually facing some delays due to high gas prices and we must trade off between scalability and affordability.
