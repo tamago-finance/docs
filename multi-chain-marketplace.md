@@ -43,3 +43,13 @@ Transferring assets in and out of Ethereum mainnet usually facing long delays du
 | Create/Cancel Orders | Instantly   | 2-3 mins.                        | 10+ mins.                    |
 | Swap Tokens          | Instantly   | 2-3 mins.                        | 10+ mins.                    |
 
+When placing orders, the seller must submit an entry to IPFS storage where potential buyers can perform searches and find information about what are the requirements to claim the NFT asset listed by the seller, each entry is basically a JSON object contains a list of assets that willing to swap with.
+
+
+
+
+
+
+
+
+
