@@ -57,3 +57,5 @@ When it come to cross-chain swaps, two types of off-chain nodes will be running 
 
 * Relayer - The relayer helps creating and matching cross-chain orders, works as cluster and able to scale depends on the governance voting when it's available, serves as a single source of truth for sync all gateway contracts with the latest state root.
 * Validator - The validator checks if the orders have been partially fulfilled by depositing of NFT/tokens at the destination chain as first come first serve, therefore the validator will authorize requests and allow a buyer to claim the asset at the origin chain and a seller at the destination chain.
+
+![](<.gitbook/assets/Marketplace.drawio (1).png>)
