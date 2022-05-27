@@ -22,7 +22,7 @@ Gone are the days where it is necessary to manually collect user addresses using
 
 We are trusted by various WEB3 projects including [0xMonkey](https://nftluckbox.xyz/project/9), [The Weirdo Ghost Gang](https://nftluckbox.xyz/project/8), [Laser Cat](https://nftluckbox.xyz/project/7), [ApeX](https://nftluckbox.xyz/project/5), [Smart Collector Card](https://nftluckbox.xyz/project/4), [Naga Dao](https://nftluckbox.xyz/project/3), and [Mao Dao](https://nftluckbox.xyz/project/2) among others.
 
-### NFT LUCKBOX Raffle Features
+### NFT Luckbox Raffle Features
 
 Our NFT Luckbox solution presents many exclusive features which benefit both raffle organizers and raffle participants. These include:
 
