@@ -4,6 +4,8 @@ description: Empowering every NFT community with WEB3 Smart On-Chain Raffle solu
 
 # NFT Luckbox Project
 
+
+
 NFT Luckbox is a community-driven giveaway tool for Web3 & NFT projects. Built on open and collaborative infrastructure. NFT Luckbox helps Web3 projects and NFT artists connect with other NFT holders and build better communities.
 
 At the same time, the NFT holders who contribute to the listing network have a chance to participate in the growth of the new projects.
@@ -21,6 +23,8 @@ Gone are the days where it is necessary to manually collect user addresses using
 We are trusted by various WEB3 projects including [0xMonkey](https://nftluckbox.xyz/project/9), [The Weirdo Ghost Gang](https://nftluckbox.xyz/project/8), [Laser Cat](https://nftluckbox.xyz/project/7), [ApeX](https://nftluckbox.xyz/project/5), [Smart Collector Card](https://nftluckbox.xyz/project/4), [Naga Dao](https://nftluckbox.xyz/project/3), and [Mao Dao](https://nftluckbox.xyz/project/2) among others.
 
 ### NFT LUCKBOX Raffle Features
+
+Our NFT Luckbox solution presents many exclusive features which benefit both raffle organizers and raffle participants. These include:
 
 * An intuitive and well-conceived raffle solution that allows newer users to easily understand the inner workings of the platform and better tailor their campaigns to their respective communities.&#x20;
 * A transparent and verifiable raffle solution that does not rely on the trust of any specific parties.&#x20;
