@@ -26,8 +26,13 @@ The price-stable NFT can be accepted as the payment can be minted and redeemed o
 
 As of now the system is available on following networks:
 
+* **Polygon**
+* **BNB Smart Chain**
+* **Avalanche**
 * **Kovan (Testnet)**
 * **Mumbai (Testnet)**
+* **Avalanche Fuji (Testnet)**
+* **BNB (Testnet)**
 
 ## Mechanism
 
